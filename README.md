@@ -1,0 +1,1 @@
+# industriademascotas-odoo.sh
